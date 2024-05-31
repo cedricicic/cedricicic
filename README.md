@@ -10,7 +10,7 @@ I am a passionate and ambitious individual currently enrolled in the University 
 - **Quantitative Finance**: Interest in quantitative finance, including algorithmic trading, risk management, and financial modeling
 
 ## Contact
-- **Email**: cedrickleung@gmail.com
+- **Email**: cedricleungcontactme@gmail.com
 - **LinkedIn**: [Cedric Leung](https://www.linkedin.com/in/cedric-leung-38637029a/)
 - **GitHub**: [github.com/cedricicic](https://github.com/cedricicic)
 
