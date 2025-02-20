@@ -4,8 +4,8 @@
 Hi, I’m Cedric! I’m a Math student at the University of Waterloo who is passionate about turning raw data into clear, impactful visuals and solutions. I enjoy digging into datasets, refining information, and building tools that simplify complex ideas—especially in economics and finance. Whether crafting a compelling data visualization or coding up an efficient algorithm, I’m always excited to learn, experiment, and solve problems creatively.
 
 ## Skills
-- **Programming Languages**: Python, R, JavaScript, HTML, CSS, C, Racket
-- **Tools & Frameworks**: Pandas, NumPy, Matplotlib, React, API development
+- **Programming Languages**: JavaScript, R, HTML, CSS, C, Racket
+- **Tools & Frameworks**: React, ggplot2, dplyr, Puppeteer, Node.js, D3.js, REST APIs
 - **Strengths**: Data visualization, statistical modelling, data cleaning and refinement
 
 ## Contact
@@ -23,4 +23,5 @@ Clubs:
 - **Workshop Coordinator**, Cooking Club: Organized and facilitated events.
 
 ## Interests
-- When I’m not coding or analyzing data, you’ll find me experimenting with speciality coffee, baking sourdough bread or doom-scrolling grailed. 
+- i love math and i build projects for fun <3
+  
