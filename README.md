@@ -10,7 +10,7 @@ Hi, I’m Cedric! I’m a Math student at the University of Waterloo who is pass
 
 ## Contact
 - **Email**: cedricleungcontactme@gmail.com
-- **Website**: [cedricleung.ca](cedricleung.ca)
+- **Website**: [cedricleung.ca](cedri.cc)
 - **LinkedIn**: [Cedric Leung](https://www.linkedin.com/in/cedric-leung-38637029a/)
 - **GitHub**: [github.com/cedricicic](https://github.com/cedricicic)
 
