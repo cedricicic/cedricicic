@@ -3,8 +3,7 @@
 ## Contact
 - **Email**: cedricleungcontactme@gmail.com
 - **Website**: [cedri.cc](https://cedri.cc)
-- **LinkedIn**: [Cedric Leung](https://www.linkedin.com/in/cedric-leung-38637029a/)
-- **GitHub**: [github.com/cedricicic](https://github.com/cedricicic)
+- **LinkedIn**: [Cedric Leung](https://www.linkedin.com/in/cedric-leungg)
 
 ## Education
 **University of Waterloo**
